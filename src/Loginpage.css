@@ -1,0 +1,18 @@
+#login {
+    width: 300px;
+    border: 1px solid #000000;
+    padding: 0px 15px 15px 15px;
+    font-family: 'open sans';
+    line-height: 50px;
+    color:black;
+    font-size: 15px;
+    background: #ffffff;
+    margin: 150px auto;
+  }
+  
+  .errorMsg {
+    color: #cc0000;
+    margin-bottom: 12px;
+  }
+  
+ 
